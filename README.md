@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Substitua pelo caminho do seu gif/mp4 de header animado -->
-  <img src="./assets/header-animado.gif" width="100%" alt="Diego Paiva - Cyberpunk Header" />
+  <video src="./assets/header-animado.mp4" autoplay loop muted playsinline width="100%"></video>
   
   <br><br>
   
