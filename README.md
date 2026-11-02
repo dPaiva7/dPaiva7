@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Substitua pelo caminho do seu gif/mp4 de header animado -->
-  <video src="./assets/header-animado.mp4" autoplay loop muted playsinline width="100%"></video>
+  <video src="./assets/header-animado.mp4" autoplay loop muted playsinline width="100%" />
   
   <br><br>
   
