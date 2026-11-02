@@ -1,6 +1,5 @@
 <div align="center">
-  <video src="./assets/header-animado.mp4" autoplay loop muted playsinline width="100%" />
-  
+  <video src="./assets/header-animado.mp4" autoplay loop muted playsinline width="100%"></video>  
   <br><br>
   
   <h3>📡 UPLINK ESTABELECIDO // NETRUNNER STATUS: ONLINE</h3>
